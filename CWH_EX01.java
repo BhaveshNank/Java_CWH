@@ -20,3 +20,4 @@ public class CWH_EX01 {
         System.out.println(percentage);
     }
 }
+//ex - done by ~Bhavesh
