@@ -2,11 +2,7 @@ import java.util.Scanner;
 
 public class ruff {
     public static void main(String[] args) {
-        /*
-         take 3 subject marks from student 
-         40% -> total and 33% -> in each subject to pass
-         using and operator and conditionals solve this problem 
-         */
+        //my code
         System.out.println("Enter subject 1 marks");
         Scanner sc = new Scanner(System.in);
         int mark1 = sc.nextInt();
