@@ -11,6 +11,9 @@ public class CWH_04_literals {
         System.out.println(age);
         String str = "Bhavesh";
         System.out.println(str);
+
+        // note in java single quote '' is used for character 
+        // and double quote "" for string 
         
     }
 }
