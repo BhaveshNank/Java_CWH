@@ -1,4 +1,4 @@
-public class CHW_ch5_PS06 {
+public class CWH_ch5_PS06 {
     public static void main(String[] args) {
         // what is factorial n = n* n-1 * n-2 *.....1 
         // 5! = 5*4*3*2*1 = 120 

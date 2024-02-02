@@ -1,4 +1,4 @@
-public class CHW_ch5_PS09 {
+public class CWH_ch5_PS09 {
     public static void main(String[] args) {
         int n = 8;
         int sum = 0;
