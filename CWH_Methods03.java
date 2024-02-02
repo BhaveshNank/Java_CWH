@@ -1,4 +1,4 @@
-public class CWH_Method_overloading02 {
+public class CWH_Methods03 {
     static void change(int a){ // command passed to change integer
         a = 98;
     }
